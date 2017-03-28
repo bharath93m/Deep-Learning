@@ -1,5 +1,5 @@
-# Handwritten Digit Recognition using TensorFlow
+ # Handwritten Digit Recognition using TensorFlow
 
-Dataset : MNIST
-No of Hidden Layers : 2
+Dataset : MNIST </br>
+No of Hidden Layers : 2 </br>
 Multi Layer Percerptron
