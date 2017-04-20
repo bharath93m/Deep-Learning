@@ -9,6 +9,6 @@ Hidden layer 2 = 6 Nodes, RELU activation with 'Dropout' = 0.1
 Output Dimension = 1 , SIGMOID activation
 Optimezer = 'ADAM'
 
-##Hyperparameter Tuning:
+## Hyperparameter Tuning:
 Utilized the Grid Search library in sklearn and got the best parameters as below
 Optimizer = 'rmsprop', batch_size = 32 , number of epochs = 500
