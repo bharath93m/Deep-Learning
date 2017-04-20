@@ -1,4 +1,4 @@
-<.## Churn Modelling
+## Churn Modelling
 
 Implemented an Artificial Neural Network with two hidden layers to accurately predict if a customer would leave the bank or not.
 
